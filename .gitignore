@@ -146,3 +146,8 @@ $RECYCLE.BIN/
 
 # Mac crap
 .DS_Store
+
+# =========================
+# Ray tracer specific
+# =========================
+*.ppm
