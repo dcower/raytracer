@@ -15,7 +15,7 @@ Features
 
 Scene files
 -----------
-The following is a specification of the scene input files. See `tests/` for examples. The first block are the initial features that I implemented; by writing `ENABLEEXTRAFEATURES` on a line, the second block of features opens for use. `float01` means a `float` that ranges from 0 to 1; similarly, `vector01` means a `vector` with components ranging from 0 to 1.
+The following is a specification of the scene input files. See `scenes/` for examples. The first block are the initial features that I implemented; by writing `ENABLEEXTRAFEATURES` on a line, the second block of features opens for use. `float01` means a `float` that ranges from 0 to 1; similarly, `vector01` means a `vector` with components ranging from 0 to 1.
 
     NEAR <float: near plane>
     LEFT <float: left plane>
